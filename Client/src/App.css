@@ -1,0 +1,34 @@
+.bg-color{
+  background-color: #9A616D;
+  /* height: 100vh; */
+}
+.card-radius{
+  border-radius: 1rem;
+}
+.img-content{
+  border-radius: 1rem 0 0 1rem;
+}
+.fontawe{
+  color: #ff6219;
+}
+.body-head-text{
+  letter-spacing: 1px;
+}
+.p-color{
+  color:lightcoral;
+}
+
+.card-head{
+  border-radius: 15px;
+}
+.bg-image{
+  height: 100vh;
+  background-image: url('https://unsplash.com/photos/3wkoPxjMW2c');
+
+}
+/* button{
+  background: linear-gradient(to right,#33ffee,lightgreen);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+} */
